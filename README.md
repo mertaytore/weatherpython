@@ -8,7 +8,9 @@ Using Yahoo Weather's information. Obtaining Yahoo Weather's API Key: https://de
 Notice: Do not forget to use your Yahoo Weather API Key in weather.py file's 49th line.<br><br>
 If there are no problems with the dependencies above, you're good to go!
 ## Running the file
-git clone https://github.com/mertaytore/weatherpython.git<br>
-cd weatherpython<br>
-cd Weather_Grab<br>
+```bash
+git clone https://github.com/mertaytore/weatherpython.git
+cd weatherpython
+cd Weather_Grab
 python result.py
+```
